@@ -1,0 +1,8 @@
+D:\Servicos\Para o CD RW\Prog\C# .NET\CronometroTarefa\CronometroTarefa\bin\Debug\CronometroTarefa.exe
+D:\Servicos\Para o CD RW\Prog\C# .NET\CronometroTarefa\CronometroTarefa\bin\Debug\CronometroTarefa.pdb
+D:\Servicos\Para o CD RW\Prog\C# .NET\CronometroTarefa\CronometroTarefa\obj\Debug\ResolveAssemblyReference.cache
+D:\Servicos\Para o CD RW\Prog\C# .NET\CronometroTarefa\CronometroTarefa\obj\Debug\CronometroTarefa.frmMain.resources
+D:\Servicos\Para o CD RW\Prog\C# .NET\CronometroTarefa\CronometroTarefa\obj\Debug\CronometroTarefa.Properties.Resources.resources
+D:\Servicos\Para o CD RW\Prog\C# .NET\CronometroTarefa\CronometroTarefa\obj\Debug\CronometroTarefa.csproj.GenerateResource.Cache
+D:\Servicos\Para o CD RW\Prog\C# .NET\CronometroTarefa\CronometroTarefa\obj\Debug\CronometroTarefa.exe
+D:\Servicos\Para o CD RW\Prog\C# .NET\CronometroTarefa\CronometroTarefa\obj\Debug\CronometroTarefa.pdb
